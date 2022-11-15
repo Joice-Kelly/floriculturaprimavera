@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'display';
+    src: url(../font/The\ Amaranth.ttf);
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url(../font/HandoSoftTrial-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'regular';
+    src: url(../font/HandoSoftTrial-Regular.ttf);
+}
